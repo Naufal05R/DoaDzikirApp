@@ -13,14 +13,14 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_marginBottom="16dp"
-        android:background="@drawable/bg_menu"
+        android:background="@drawable/menu_2"
         android:gravity="bottom"
         android:paddingHorizontal="16dp"
         android:paddingBottom="16dp"
         android:text="@string/txt_dzikir_setiap_saat"
         android:textSize="24sp"
         android:textStyle="bold"
-        android:textColor="@color/blue" />
+        android:textColor="@color/white" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_dzikir_setiap_saat"

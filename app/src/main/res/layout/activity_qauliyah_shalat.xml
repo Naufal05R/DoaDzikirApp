@@ -20,7 +20,7 @@
         android:text="@string/txt_sunnah_qauliyah"
         android:textSize="24sp"
         android:textStyle="bold"
-        android:textColor="@color/blue" />
+        android:textColor="@color/white" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_qauliyah_shalat"
